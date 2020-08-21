@@ -1,2 +1,2 @@
 # 128x32-OLED-weather
-Test program 
+Test program to get up and running 
